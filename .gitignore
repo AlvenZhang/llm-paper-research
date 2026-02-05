@@ -28,7 +28,7 @@ logs/
 *.temp
 
 # Project specific
-record/
+# record/
 videos/
 runs/
 
